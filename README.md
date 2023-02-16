@@ -10,6 +10,7 @@ This page presents the updating version of WRF applied to the postdoctoral FAPES
 ## ** Lastest updates: **
 * 2021-11-30: repository created with original FULL SBM fortran files uploaded
 * 2022-02-15: inclusion of melting scheme (Vaughan, Pokrovsky and Khain, 2007)
+* 2023-02-16: updating the ice-ice collision scheme
 
 ## ** Improvements: **
 
